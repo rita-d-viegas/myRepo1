@@ -3,3 +3,6 @@ my file
 this is new code!
 
 and another line
+
+
+add this extra line
