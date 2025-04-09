@@ -2,4 +2,4 @@ my file
 
 this is new code!
 
-and another line
+this line is different
