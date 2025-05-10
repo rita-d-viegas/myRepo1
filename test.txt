@@ -2,4 +2,9 @@ my file
 
 this is new code!
 
+
+
+add this extra line
+
 this line is different
+
